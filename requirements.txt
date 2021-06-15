@@ -1,0 +1,12 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+re
+seaborn
+string
+nltk
+warnings
+wordcloud
+sklearn.feature_extraction.text
+gensim
